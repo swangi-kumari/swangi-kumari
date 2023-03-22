@@ -1,3 +1,6 @@
+![logo](https://github.com/swangi-kumari/swangi-kumari/blob/main/Beige%20Cute%20Watercolor%20Easter%20%20Banner.png)
+
+
 <h1 align="center">Hello 👋, I'm Swangi Kumari</h1>
 <h3 align="center">A passionate Java and Frontend Developer from India</h3>
 
