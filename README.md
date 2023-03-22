@@ -33,11 +33,5 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=swangi-kumari&" alt="swangi-kumari" /></p>
 
-
-
-
-
-
-<!-- 
-[![GitHub Streak](https://streak-stats.demolab.com/?user=swangi-kumari)](https://git.io/streak-stats)
- -->
+<!-- ![snake gif](https://github.com/swangi-kumari/swangi-kumari/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/swangi-kumari/swangi-kumari/tree/main/.github/workflows) -->
