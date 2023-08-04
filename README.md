@@ -12,7 +12,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/swangi-kumari](https://github.com/swangi-kumari)
 
-- 💬 Ask me about **Java , DSA, Frontend Web Development**
+- 💬 Ask me about **Java, RUST, DSA, Frontend Web Development**
 
 - 📫 How to reach me **https://www.linkedin.com/in/swangikumari/**
 
