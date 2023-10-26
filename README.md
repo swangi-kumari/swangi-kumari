@@ -8,7 +8,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=swangi-kumari&label=Profile%20views&color=0e75b6&style=flat" alt="swangi-kumari" /> </p>
 
-- 🌱 I’m currently learning **React , Node JS**
+- 🌱 I’m currently working on **React.
 
 - 👨‍💻 All of my projects are available at [https://github.com/swangi-kumari](https://github.com/swangi-kumari)
 
