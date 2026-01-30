@@ -2,7 +2,7 @@
 
 
 <h1 align="center">Hello 👋, I'm Swangi Kumari</h1>
-<h3 align="center">SDE Intern at Juspay</h3>
+<h3 align="center">SDE at Juspay</h3>
 
 <img align="right" alt = "coding" width = "400" src = "https://media.tenor.com/S59bPkT0pqcAAAAC/programming.gif"> 
 
